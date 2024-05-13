@@ -18,6 +18,9 @@
 ### - Learning :
 - ㊙️ Typescript
 - ㊙️ Tailwind
+- ㊙️ Next.js
+- ㊙️ MongoDB
+- ㊙️ Prisma
 
 ### - Hobbies : 
 - ㊙️ Gaming Addict
