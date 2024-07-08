@@ -10,11 +10,17 @@
 
 # About me 💬 :
 
-### - I'm 22 year old Full-Stack Developer and Bleach enthusiast from the UK.
+### - I'm a 23 year old Full-Stack Developer and Bleach enthusiast from the UK.
 
 <img hight="400" width="500" alt="GIF" align="right" src="./assets/images/fused Tensa zangetsu.gif">
 
-### - Hobbies :
+### - Learning :
+
+- ㊙️ Typescript
+- ㊙️ Tailwind
+- ㊙️ Next.js
+- ㊙️ MongoDB
+- ㊙️ Prisma
 
 - ㊙️ Gaming Addict
 - ㊙️ Watching Anime
