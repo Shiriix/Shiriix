@@ -1,4 +1,4 @@
-# Hey  there 👋
+# Hey there 👋
 
 <div align="center">
 <img hight="300" width="700" alt="GIF" align="center" src="./assets/images/mugetsu gif.gif">
@@ -8,18 +8,14 @@
 </br>
 </br>
 
-
 # About me 💬 :
 
 ### - I'm 22 year old Full-Stack Developer and Bleach enthusiast from the UK.
 
 <img hight="400" width="500" alt="GIF" align="right" src="./assets/images/fused Tensa zangetsu.gif">
 
-### - Learning :
-- ㊙️ Typescript
-- ㊙️ Tailwind
+### - Hobbies :
 
-### - Hobbies : 
 - ㊙️ Gaming Addict
 - ㊙️ Watching Anime
 - ㊙️ Reading Manga
@@ -29,12 +25,11 @@
 </br>
 </br>
 
-
 # Languages & Tools 👨‍💻 🛠:
+
 </br>
 
 <p align="center">
-
 
 <img src="./assets/icons/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f676574706f73746d616e2f676574706f73746d616e2d69636f6e2e737667.svg" alt="Postman" width="90" hight="50">
 <img src="./assets/icons/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f6769742d73636d2f6769742d73636d2d69636f6e2e737667.svg" alt="git"  width="90" hight="50">
@@ -51,6 +46,12 @@
 <img src="./assets/icons/mysql-original-wordmark.svg" alt="sql" width="90" hight="50">
 <img src="./assets/icons/react-original-wordmark.svg" alt="react" width="90" hight="50">
 <img src="./assets/icons/sass-original.svg" alt="sass" width="90" hight="50">
+</br>
+<img src="./assets/icons/typescript.svg" alt="knex" width="90" hight="50">
+<img src="./assets/icons/tailwind-css.svg" alt="sql" width="90" hight="50">
+<img src="./assets/icons/mongodb.svg" alt="react" width="90" hight="50">
+<img src="./assets/icons/prisma.svg" alt="sass" width="90" hight="50">
+
 </p>
 </br>
 </br>
@@ -61,9 +62,7 @@
 <p>
  </br>
 
-
 <img hight="320" width="450" align="right" alt="GIF" src="./assets/images/rukia bankai gif.webp">
-
 
 If you want to reach out to me about anything, be it some doubt, just to hangout and talk or want to game together just get in contact😉.
 
@@ -77,7 +76,6 @@ If you want to reach out to me about anything, be it some doubt, just to hangout
 </br>
 </a>
 
-
 </br>
 </br>
 </br>
@@ -85,5 +83,3 @@ If you want to reach out to me about anything, be it some doubt, just to hangout
 </br>
 </br>
 </br>
-
-
