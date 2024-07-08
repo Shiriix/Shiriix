@@ -14,13 +14,7 @@
 
 <img hight="400" width="500" alt="GIF" align="right" src="./assets/images/fused Tensa zangetsu.gif">
 
-### - Learning :
-
-- ㊙️ Typescript
-- ㊙️ Tailwind
-- ㊙️ Next.js
-- ㊙️ MongoDB
-- ㊙️ Prisma
+### - Hobbies :
 
 - ㊙️ Gaming Addict
 - ㊙️ Watching Anime
